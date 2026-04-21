@@ -37,8 +37,12 @@ This repository documents the creative and technical development of **LUCID**, a
 ## Credits
 
 **Andrew Perper** — Creator, Director, Cinematographer, Editor
+
 **Kai Hansen** — Sound Designer, SFX
+
 **Alex Frachetti** — Drone shots
+
 **Brit Paulson** — Jo
+
 **Ben Hightower** — Billy
 
